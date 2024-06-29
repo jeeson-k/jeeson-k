@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeeson
 - 👀 I’m an electronics and communication engineer 
-- 🌱 I’m currently learning web development, app development, software developer 
+- 🌱 I’m currently an engineering graduate who worked as a Software Engineer with work experience in UPCC,4G stack,5G NSA,SA. 
 - 💞️ I’m looking to collaborate on software development 
 - 📫 How to reach me?? contact me on email jk.jeeson@gmail.com
 
